@@ -1,23 +1,58 @@
-🛒 Mini E-Commerce con React, HTML, CSS y JavaScript
+# 🛒 Mini E-Commerce | Tienda Online con React + API Real
 
-Este proyecto es un mini e-commerce completamente funcional desarrollado con HTML, CSS, JavaScript, React y React Router, consumiendo datos desde una API mediante fetch. Su objetivo es simular una tienda online sencilla pero potente, con características que mejoran la experiencia del usuario y la navegación del sitio.
+![React](https://img.shields.io/badge/React-18.2-blue?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![CSS3](https://img.shields.io/badge/CSS3-Modern-blue?logo=css3)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-✨ Características principales
+Una **tienda online 100% funcional** creada desde cero con **React**, consumiendo productos de una API real. Ideal para practicar y mostrar habilidades reales de desarrollo frontend moderno.
 
-⚛️ Interfaz desarrollada con React para una experiencia rápida y dinámica.
+¡Navega, filtra por categorías, ordena por precio y disfruta de una experiencia rápida y responsive en cualquier dispositivo! 🚀
 
-🌐 Consumo de API real utilizando fetch para obtener los productos.
+### ✨ Demo en vivo
+*(Agrega aquí el link a tu deploy en Vercel/Netlify cuando lo tengas)*  
+👉 [ver demo](https://tu-ecommerce.netlify.app)
 
-🧭 React Router para gestionar rutas internas y una navegación fluida.
+## 🚀 Características destacadas
 
-🗂️ Filtrado por categorías para explorar productos según su tipo.
+- ⚛️ Desarrollado con **React 18** + Hooks (useState, useEffect)
+- 🌐 Consumo de **API real** con `fetch` (productos dinámicos)
+- 🧭 Navegación perfecta con **React Router DOM v6**
+- 🗂️ Filtro por categorías en tiempo real
+- 💰 Ordenamiento por precio (ascendente y descendente)
+- 🎨 Diseño **100% responsive** (mobile-first)
+- ⚡ Renderizado dinámico y optimizado
+- 🛍️ Carrito funcional (puedes agregarlo después y ya tienes la base lista 😏)
 
-💲 Ordenamiento por precio (de menor a mayor y viceversa).
+## 🎯 ¿Por qué este proyecto mola?
 
-🎨 Diseño responsive con HTML y CSS para verse bien en cualquier dispositivo.
+Este mini e-commerce no es solo un ejercicio: es una **aplicación realista** que demuestra dominio de:
 
-🔍 Listado de productos dinámico y renderizado en tiempo real.
+- Gestión avanzada de estado en React
+- Manejo de rutas y navegación SPA
+- Consumo y transformación de APIs externas
+- Componentización y código limpio/reutilizable
+- Buenas prácticas de frontend moderno
 
-🎯 Objetivo del proyecto
+Perfecto para portfolios, entrevistas técnicas o para seguir evolucionándolo (¡añade carrito, autenticación, pagos con Stripe... lo que quieras!).
 
-Este proyecto fue creado para practicar y demostrar habilidades en el desarrollo frontend moderno, incluyendo la gestión de estados, manejo de rutas, consumo de APIs y creación de componentes reutilizables dentro del ecosistema React.
+## 🖼️ Capturas de pantalla
+
+*(Aquí coloca tus screenshots bonitos con el producto listado, filtros, mobile view, etc.)*
+
+## 🛠️ Tecnologías usadas
+
+- React + Vite
+- React Router DOM
+- JavaScript vanilla (ES6+)
+- HTML5 semántico
+- CSS3 puro (o con Tailwind si lo cambiaste)
+- Fetch API
+
+## 🚀 Cómo ejecutarlo localmente
+
+```bash
+git clone https://github.com/tu-usuario/mini-ecommerce-react.git
+cd mini-ecommerce-react
+npm install
+npm run dev
