@@ -11,7 +11,7 @@ Una **tienda online 100% funcional** creada desde cero con **React**, consumiend
 
 ### ✨ Demo en vivo
 *(Agrega aquí el link a tu deploy en Vercel/Netlify cuando lo tengas)*  
-👉 [ver demo](https://tu-ecommerce.netlify.app)
+👉 [ver demo](https://navega-tus-rutas-mendieta-suarez.vercel.app/)
 
 ## 🚀 Características destacadas
 
@@ -36,23 +36,12 @@ Este mini e-commerce no es solo un ejercicio: es una **aplicación realista** qu
 
 Perfecto para portfolios, entrevistas técnicas o para seguir evolucionándolo (¡añade carrito, autenticación, pagos con Stripe... lo que quieras!).
 
-## 🖼️ Capturas de pantalla
-
-*(Aquí coloca tus screenshots bonitos con el producto listado, filtros, mobile view, etc.)*
-
 ## 🛠️ Tecnologías usadas
 
 - React + Vite
 - React Router DOM
 - JavaScript vanilla (ES6+)
 - HTML5 semántico
-- CSS3 puro (o con Tailwind si lo cambiaste)
+- CSS3 
 - Fetch API
 
-## 🚀 Cómo ejecutarlo localmente
-
-```bash
-git clone https://github.com/tu-usuario/mini-ecommerce-react.git
-cd mini-ecommerce-react
-npm install
-npm run dev
