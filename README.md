@@ -1,16 +1,23 @@
-# React + Vite
+🛒 Mini E-Commerce con React, HTML, CSS y JavaScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un mini e-commerce completamente funcional desarrollado con HTML, CSS, JavaScript, React y React Router, consumiendo datos desde una API mediante fetch. Su objetivo es simular una tienda online sencilla pero potente, con características que mejoran la experiencia del usuario y la navegación del sitio.
 
-Currently, two official plugins are available:
+✨ Características principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚛️ Interfaz desarrollada con React para una experiencia rápida y dinámica.
 
-## React Compiler
+🌐 Consumo de API real utilizando fetch para obtener los productos.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🧭 React Router para gestionar rutas internas y una navegación fluida.
 
-## Expanding the ESLint configuration
+🗂️ Filtrado por categorías para explorar productos según su tipo.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💲 Ordenamiento por precio (de menor a mayor y viceversa).
+
+🎨 Diseño responsive con HTML y CSS para verse bien en cualquier dispositivo.
+
+🔍 Listado de productos dinámico y renderizado en tiempo real.
+
+🎯 Objetivo del proyecto
+
+Este proyecto fue creado para practicar y demostrar habilidades en el desarrollo frontend moderno, incluyendo la gestión de estados, manejo de rutas, consumo de APIs y creación de componentes reutilizables dentro del ecosistema React.
