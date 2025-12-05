@@ -12,19 +12,19 @@ export const NavBar = () => {
         <nav className="navbar">
             <ul className="nav-links">
                <li>
-                 <Link to = "/">Home</Link>
+                 <Link to = "/">Inicio</Link>
                </li>
 
                <li>
-                  <Link to = "/Colletions">Collections</Link>
+                  <Link to = "/Categorias">Colecciones</Link>
                 </li>
 
                 <li>
-                  <Link to = "/About">About</Link>
+                  <Link to = "/About">Sobre nosotros</Link>
                 </li>
 
                  <li>
-                  <Link to = "/Contact">Contact</Link>
+                  <Link to = "/Contacto">Contacto</Link>
                 </li> 
             </ul>
         </nav>

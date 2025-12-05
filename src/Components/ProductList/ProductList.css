@@ -54,8 +54,7 @@ input[type="checkbox"] {
     vertical-align: middle;
 }
 
-
-/*Estilo collections*/
+/*-----------------------------------*/
 
 .collections{
     flex: 1;
@@ -88,7 +87,7 @@ input[type="checkbox"] {
     border: 1px solid #ddd;
 }
 
-/*Products*/
+/*-----------------------------------*/
 
 .products {
     display: grid;

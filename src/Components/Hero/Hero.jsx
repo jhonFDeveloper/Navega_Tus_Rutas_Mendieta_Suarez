@@ -8,9 +8,9 @@ export const Hero = () => {
     <section className="hero-container">
 
       <div className="hero-text">
-        <p className="subtitle">OUR BESTSELLERS</p>
-        <h1 className="title">LATES TRENDS</h1>
-        <p className="cta">BUY NOW</p>
+        <p className="subtitle">NUESTROS MÁS VENDIDOS</p>
+        <h1 className="title">ÚLTIMAS TENDENCIAS</h1>
+        <p className="cta">COMPRA AHORA</p>
       </div>
 
       <div className="hero-image">
@@ -19,5 +19,5 @@ export const Hero = () => {
 
     </section>    
   )
-  
+
 }
