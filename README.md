@@ -1,34 +1,49 @@
-# 🛒 Mini E-Commerce | Tienda Online con React + API Real
+# 🛒 Mini E-Commerce | Tienda Online con React + API Real  
+**Proyecto #2 / Proyecto Destacado - Curso de React.js - CoderHouse**
 
-![React](https://img.shields.io/badge/React-18.2-blue?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![CSS3](https://img.shields.io/badge/CSS3-Modern-blue?logo=css3)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+¡Mi tienda online 100% funcional creada desde cero durante el curso de React.js en CoderHouse!  
+Un e-commerce completo que consume productos de una API real, con navegación fluida, filtros, ordenamiento y diseño totalmente responsive.
 
-Una **tienda online 100% funcional** creada desde cero con **React**, consumiendo productos de una API real. Ideal para practicar y mostrar habilidades reales de desarrollo frontend moderno.
+Ideal para demostrar todo lo aprendido en el curso: componentes, hooks, routing, consumo de APIs y buenas prácticas de desarrollo frontend moderno.
 
-¡Navega, filtra por categorías, ordena por precio y disfruta de una experiencia rápida y responsive en cualquier dispositivo! 🚀
+¡Mira la demo en vivo y navega como un usuario real! 🚀
 
-### ✨ Demo en vivo
-👉 [ver demo](https://navega-tus-rutas-mendieta-suarez.vercel.app/)
+✨ **Demo en vivo**  
+👉 [Ver demo aquí](https://navega-tus-rutas-mendieta-suarez.vercel.app/) 
 
-## 🚀 Características destacadas
+### 🚀 Características destacadas del proyecto
 
-- ⚛️ Desarrollado con **React 18** + Hooks (useState, useEffect, UseParams)
-- 🌐 Consumo de **API real** con `fetch` (productos dinámicos)
-- 🧭 Navegación perfecta con **React Router DOM v6**
+- ⚛️ Desarrollado con **React 18** usando **Hooks** (useState, useEffect, useParams, useNavigate)
+- 🌐 Consumo de **API real** (FakeStore API) mediante **fetch**
+- 🧭 Navegación completa con **React Router DOM v6** (rutas dinámicas incluidas)
 - 🗂️ Filtro por categorías en tiempo real
-- 💰 Ordenamiento por precio (ascendente y descendente)
-- 🎨 Diseño **100% responsive** (mobile-first)
-- ⚡ Renderizado dinámico y optimizado
-- 🛍️ Carrito funcional (puedes agregarlo después y ya tienes la base lista 😏)
+- 🔽🔼 Ordenamiento por precio (ascendente y descendente)
+- 🎨 Diseño **100% responsive** con enfoque mobile-first
+- ⚡ Renderizado dinámico y optimizado (carga rápida incluso con muchos productos)
 
-## 🛠️ Tecnologías usadas
+### 🛠️ Tecnologías utilizadas
 
-- React + Vite
-- React Router DOM
-- JavaScript vanilla (ES6+)
-- HTML5 semántico
-- CSS3 
-- Fetch API
+| Tecnología              | Uso                                      |
+|-------------------------|------------------------------------------|
+| React + Vite            | Base del proyecto y bundler ultrarrápido |
+| React Router DOM v6     | Navegación y rutas dinámicas             |
+| JavaScript (ES6+)       | Lógica de la aplicación                  |
+| Fetch API               | Consumo de productos reales               |
+| HTML5 semántico         | Estructura accesible                     |
+| CSS3 (Flexbox)   | Estilos modernos y responsive            |
 
+### 🎯 Objetivos del curso cumplidos en este proyecto
+
+- Manejar estado con Hooks de manera eficiente
+- Implementar routing avanzado
+- Consumir y manejar datos de una API externa
+- Aplicar buenas prácticas de componentes reutilizables y organización de código
+- Desarrollar una interfaz responsive y atractiva
+
+### 📚 Comisión y datos del curso
+- **Curso**: React.js
+- **Plataforma**: CoderHouse
+- **Comisión**: [81770]
+- **Profesor/a**: [Horacio Alfredo Gutierrez Estevez]
+- **Tutor/a**: [Cristian Ovejero]
+- **Alumno**: [Jhon Fredy Mendieta Suárez] 🧑‍💻
